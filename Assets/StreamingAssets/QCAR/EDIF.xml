@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Marcador_Colconcreto" size="15.000000 12.000000" />
+    <ImageTarget name="Postal2" size="10.000000 10.000000" />
+    <ImageTarget name="post" size="15.000000 10.041323" />
+    <ImageTarget name="Pieza" size="3108.000000 4400.000000" />
+    <ImageTarget name="rumba2" size="1024.000000 1461.839355" />
+    <ImageTarget name="marcador1" size="1024.000000 613.000000" />
+  </Tracking>
+</QCARConfig>
